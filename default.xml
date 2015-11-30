@@ -11,7 +11,7 @@
            review="review.cyanogenmod.org" />
 
   <remote  name="maxicm"
-           fetch="git://github.com/MaxiCM"
+           fetch="git://github.com/MaxiCM-Test"
            revision="refs/heads/maxi-5.1" />
 
   <remote  name="private"
